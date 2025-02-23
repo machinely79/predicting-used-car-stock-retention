@@ -13,7 +13,7 @@ Maintaining inventory at an optimal level continuously depends largely on demand
 
 # Model Performance Summary
 
-The applied models produced the following key performance metrics:
+The applied models produced the following key performance metrics, evaluated using the Concordance Index (C-Index):
 
 •	Gradient-Boosted Cox achieved the highest mean test score (0.846).
 
