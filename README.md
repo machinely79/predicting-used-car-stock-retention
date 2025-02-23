@@ -14,6 +14,7 @@ Maintaining inventory at an optimal level continuously depends largely on demand
 # Model Performance Summary
 
 The applied models produced the following key performance metrics:
+
 •	Gradient-Boosted Cox achieved the highest mean test score (0.846).
 
 •	Cox Proportional Hazards and Random Survival Forest performed similarly, with mean test scores of 0.838 and 0.837, respectively.
