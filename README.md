@@ -27,64 +27,6 @@ The applied models produced the following key performance metrics, evaluated usi
 ![Concordance Index](https://github.com/machinely79/predicting-used-car-stock-retention/blob/main/images/concordance_index_across_models.png)
 
 
-# Dataset Overview
+## Dataset Overview
 
 This dataset contains approximately 2,800 used vehicles with detailed attributes categorized as follows:
-
-### Identification
-•	Id – Unique identifier for each vehicle in the dataset.
-### Target 
-•	IsSold – Indicates whether the vehicle was sold (1) or not (0).
-•	WeeksOnStockBeforeSale – Number of weeks the vehicle remained in stock before being sold.
-### Features
-•	onAction – Indicates whether the vehicle was sold on promotion (1 – yes, 0 – no).
-•	SalesSeason – The season or time period when the vehicle was sold.
-•	TotalPrice – Final selling price of the vehicle.
-•	CarAgeYears – Age of the car in years.
-•	Kilometers – The number of kilometers driven.
-•	Kilowatts – Engine power in kilowatts.
-•	Horsepower – Engine power in horsepower.
-•	Cars – Brand and model of the vehicle.
-•	EngineType – Type of engine (e.g., petrol, diesel, hybrid, electric).
-•	BodyType – Body style of the car (e.g., sedan, SUV, hatchback).
-•	TransmissionType – Type of transmission (e.g., automatic, manual).
-•	Color – Color of the vehicle.
-•	NumberofDoors – Number of doors on the vehicle.
-•	ESP – Electronic Stability Program.
-•	ASR – Anti-Slip Regulation (traction control system).
-•	Alarm – Security alarm system.
-•	ParkAssist – Parking assistance system.
-•	360ParkingCamera – 360-degree parking camera.
-•	AutomaticClimateControl – Automatic climate control system.
-•	ManualAirConditioning – Manual air conditioning system.
-•	HeatedFrontSeats – Heated front seats.
-•	HeatedRearSeats – Heated rear seats.
-•	CooledFrontSeats – Ventilated front seats.
-•	CooledRearSeats – Ventilated rear seats.
-•	BluetoothConnection – Bluetooth connectivity for devices.
-•	RemoteLocking – Remote central locking system.
-•	Navigation – Built-in navigation system.
-•	MobileDevicePreparation – Pre-installation for mobile device connectivity.
-•	TripComputer – Onboard trip computer for driving data.
-•	VirtualCockpit – Digital instrument cluster.
-•	HeadUpDisplay – Head-up display projecting data onto the windshield.
-•	AlloyWheels16, AlloyWheels17, AlloyWheels19, AlloyWheels21, AlloyWheels22 – Alloy wheels of various sizes.
-•	FogLights – Fog lights for improved visibility.
-•	BiXenon, Xenon, LEDLights – Different types of front lighting technology.
-•	ChromePackage – Chrome exterior styling package.
-•	SlidingPanoramicRoof – Sliding panoramic sunroof.
-•	PanoramicRoof – Fixed panoramic roof.
-•	ElectricSunroof – Electrically operated sunroof.
-•	Leather, LeatherAlcantara, LeatherFabric, Fabric, Alcantara – Different types of upholstery materials.
-•	ElectricSeatAdjustment – Electrically adjustable seats.
-•	SeatMemoryPackage – Seat position memory function.
-•	RearRollerBlind – Sunshade for rear windows.
-•	PassengerSeatMemoryPackage – Memory settings for passenger seats.
-•	AllWheelDrive – All-wheel drive system.
-•	SideRollerBlinds – Side window sunshades.
-•	AirSuspension – Adaptive air suspension system.
-
-
-
-
-
