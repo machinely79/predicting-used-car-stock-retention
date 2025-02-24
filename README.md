@@ -21,9 +21,11 @@ The applied models produced the following key performance metrics, evaluated usi
 
 •	Random Survival Forest exhibited the lowest standard deviation (0.011), indicating the most stable performance.
 
-#### **Cross-Validation Results**
+#### **Table 1.Cross-Validation Results**
 ![Model Performance](https://github.com/machinely79/predicting-used-car-stock-retention/blob/main/images/cv_best_model_results.png)
-#### **Concordance Index Across Models** 
+
+
+#### **Figure 1. Concordance Index Across Models** 
 ![Concordance Index](https://github.com/machinely79/predicting-used-car-stock-retention/blob/main/images/concordance_index_across_models.png)
 
 
