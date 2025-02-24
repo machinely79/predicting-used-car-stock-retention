@@ -33,13 +33,13 @@ The applied models produced the following key performance metrics, evaluated usi
 
 This dataset contains approximately 2,800 used vehicles with 74 detailed attributes:
 
-**Id**: Unique identifier,
-**IsSold**: Indicates whether the car has been sold (True/False),
-**WeeksOnStockBeforeSale**: Number of weeks the car was on stock before being sold,
-**onAction**: Indicates whether the car is on a promotional sale (True/False),
-**SalesSeason**: The season when the car was sold (e.g., Winter, Summer),
-**Total_Price**: Total price of the car in the dataset,
-    **Car_Age_Years**: Age of the car in years,
+**Id**: Unique identifier
+**IsSold**: Indicates whether the car has been sold (True/False)
+**WeeksOnStockBeforeSale**: Number of weeks the car was on stock before being sold
+**onAction**: Indicates whether the car is on a promotional sale (True/False)
+**SalesSeason**: The season when the car was sold (e.g., Winter, Summer)
+**Total_Price**: Total price of the car in the dataset
+    **Car_Age_Years**: Age of the car in years
     **Kilometers**: Total kilometers driven,
     **Kilowatts**: Engine power in kilowatts,
     **Horsepower**: Engine power in horsepower,
